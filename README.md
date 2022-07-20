@@ -9,4 +9,4 @@ Waveles is used for non-homogenous function such as Doppler function. It is real
 
 Here is the point! Our target is to get not only the smooth function but also ensuring the local informaion. Wavelets can ensure both points. By increasing multi-resolution, wavelets help to get more localized function which is the main goal of us. 
 
-If you are interested more, you can look my slides. These slides are presented by me in the Technical University of Kaiserslautern. 
+##### If you are interested more, you can look my slides. These slides are presented by me in the Technical University of Kaiserslautern. 
